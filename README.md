@@ -1,1 +1,1 @@
-# CMSC-140-WT-24
+This is the repository for code and solutions for CMSC 140 Winter Term 2024.
