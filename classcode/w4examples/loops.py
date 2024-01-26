@@ -26,3 +26,4 @@ for i in list_of_nums:
 print("Indexed:")
 for i in range(len(list_of_nums)):
     print(i, list_of_nums[i])
+print(i)
